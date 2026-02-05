@@ -1,0 +1,14 @@
+{
+  "admin_phone": "+989916516303",
+  "brand": "Persian Net 🛜",
+  "max_users": 100,
+  "commands": {
+    "add_user": true,
+    "remove_user": true,
+    "mute": true,
+    "unmute": true,
+    "delete": true,
+    "time": true,
+    "list_users": true
+  }
+}
